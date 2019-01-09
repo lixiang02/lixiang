@@ -1,0 +1,19 @@
+{
+  "name": "lixiang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiang02/lixiang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixiang02/lixiang/issues"
+  },
+  "homepage": "https://github.com/lixiang02/lixiang#readme"
+}
