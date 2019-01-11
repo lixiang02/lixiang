@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/lixiang02/lixiang#readme",
   "dependencies": {
-    "egg-acm-client": "0.0.6"
   }
 }
